@@ -35,7 +35,7 @@ public class Main {
                 namaMenu = "Bakso";
                 break;
             default:
-                System.out.println("Milih Yang Bener Jir!:(");
+                System.out.println("Milih Yang Bener!:(");
                 System.exit(0);
         }
 
